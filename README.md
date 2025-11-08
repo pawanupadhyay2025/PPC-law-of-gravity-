@@ -53,22 +53,23 @@ In the weak-field limit:
 
 The PPC Law interprets this as the pressure of mass-energy shaping the curvature geometry.
 
-### Pressure Dominates Curvature: Einstein’s Proof
+Pressure Dominates Curvature: Einstein’s Proof
 
 In the stress-energy tensor:
-\[
-T_{\mu\nu} = \left(\rho + \frac{p}{c^2}\right) u_\mu u_\nu + p g_{\mu\nu}
-\]
-pressure $ p $ appears in **two terms**.
 
-In the **weak-field limit**:
-\[
-\boxed{\nabla^2 \Phi = 4\pi G \left( \rho + \frac{3p}{c^2} \right)}
-\]
-→ **Pressure contributes 3× more than mass density.**
+Tμν = (ρ + p/c²) uμuν + p gμν
 
-This **proves** the PPC Law:  
-> **"The force of pressure creates the shape of curvature."**
+pressure (p) appears in two terms.
+
+In the weak-field limit:
+
+∇²Φ = 4πG (ρ + 3p/c²)
+
+→ Pressure contributes three times more than mass density.
+
+This proves the PPC Law:
+
+“The force of pressure creates the shape of curvature.”
 
 📊 Experimental Validation
 
