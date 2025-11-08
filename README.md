@@ -1,9 +1,13 @@
 Pawan Upadhyay's Pressure–Curvature Law of Gravity (PPC Law)
 
 Author: Pawan Upadhyay
+
 Email: pawanupadhyay28@hotmail.com
+
 Date: November 2025
+
 Status: ✅ Verified on GitHub
+
 Repository: PPC Law of Gravity
 
 
@@ -32,8 +36,11 @@ It provides a clear causal mechanism that connects energy density to geometry.
  Causal Flow of PPC Law
 
 Mass (ρ) → generates → Pressure Field (Pg = ρc²)
+
 Pressure Field → acts upon → Spacetime Fabric
+
 Spacetime Fabric → results in → Curvature (Gμν)
+
 Curvature → defines → Motion (Geodesics)
 
 Causal Chain: Mass → Pressure → Curvature → Motion
@@ -76,9 +83,13 @@ This proves the PPC Law:
 Experiment	Year	Confirms	Precision
 
 Pound–Rebka	1959	Pressure → redshift	1% → 10⁻¹⁸
+
 Hafele–Keating	1971	Pressure → time dilation	10%
+
 Gravity Probe B	2011	Pressure → frame-dragging	0.3%
+
 LIGO (GW150914)	2015	Pressure waves	1 in 10²¹
+
 EHT (M87*)	2019	Pressure → black hole shadow	4%
 
 
@@ -87,9 +98,13 @@ All these results confirm the PPC sequence and are consistent with General Relat
 Significance and Advantages
 
 • Physical clarity – “Pressure” is more intuitive than abstract “curvature.”
+
 • Causal explanation – Pressure causes curvature.
+
 • Unification – Bridges Newton’s force model and Einstein’s geometric model.
+
 • Educational simplicity – Teaches gravity in minutes.
+
 • Cosmic relevance – Applies from laboratory tests to black holes.
 
 “Gravity is the pressure of existence shaping the geometry of being.”
