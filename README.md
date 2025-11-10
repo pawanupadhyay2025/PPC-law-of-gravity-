@@ -10,6 +10,17 @@ Status: ✅ Verified on GitHub
 
 Repository: PPC Law of Gravity
 
+Full Meaning of “PPC Law of Gravity”
+
+PPC Law of Gravity stands for:
+P — Pawan Upadhyay
+P — Pressure
+C — Curvature
+
+So, the full form is:
+
+Pawan Upadhyay’s Pressure–Curvature Law of Gravity
+
 
 
 📖 Abstract
