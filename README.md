@@ -155,7 +155,10 @@ Email: pawanupadhyay28@hotmail.com
 © 2025 Pawan Upadhyay. All Rights Reserved.
 
 
+## 📄 Publication
+The full research paper is officially published and archived on Zenodo (CERN Open-Science Repository).
 
+🔗 **Read here:** [https://doi.org/10.5281/zenodo.17593311](https://doi.org/10.5281/zenodo.17593311)
 
 
 
