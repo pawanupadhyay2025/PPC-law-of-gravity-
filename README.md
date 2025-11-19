@@ -1,4 +1,3 @@
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17619435.svg)](https://doi.org/10.5281/zenodo.1761943)]
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17593311.svg)](https://doi.org/10.5281/zenodo.17593311)]
@@ -131,8 +130,6 @@ Significance and Advantages
 — Pawan Upadhyay
 
 
----
-
 📄 Download Full Research Paper
 
 You can download the complete research paper here:
@@ -140,8 +137,6 @@ PPC LAW OF GRAVITY.pdf
 
 (https://github.com/pawanupadhyay2025/PPC-law-of-gravity-/blob/main/PPC%20LAW%20OF%20GRAVITY.pdf )
 
-
----
 
 📡 Contact and Citation
 
