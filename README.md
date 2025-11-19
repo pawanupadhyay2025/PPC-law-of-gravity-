@@ -158,6 +158,7 @@ The full research paper is officially published and archived on Zenodo (CERN Ope
 
 🔗 **Read here:** [https://doi.org/10.5281/zenodo.17593311](https://doi.org/10.5281/zenodo.17593311)
 
+[https://doi.org/10.5281/zenodo.17619435](https://doi.org/10.5281/zenodo.17619435)
 
 
 
