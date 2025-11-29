@@ -3,11 +3,11 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17593311.svg)](https://doi.org/10.5281/zenodo.17593311)
 
 
-Pawan Upadhyay's Pressure–Curvature Law of Gravity (PPC Law)
+# Pawan Upadhyay's Pressure–Curvature Law of Gravity (PPC Law)
 
-Author: Pawan Upadhyay
+# Author and Researcher: Pawan Upadhyay
 
-Email: pawanupadhyay28@hotmail.com
+# Email: pawanupadhyay28@hotmail.com
 
 Date: November 2025
 
@@ -162,3 +162,4 @@ The full research paper is officially published and archived on Zenodo (CERN Ope
 
 
 
+[![ORCID](https://orcid.org/sites/default/files/images/orcid_24x24.png)](https://orcid.org/0009-0007-9077-5924)
