@@ -135,7 +135,7 @@ Significance and Advantages
 You can download the complete research paper here:
 PPC LAW OF GRAVITY.pdf
 
-(https://github.com/pawanupadhyay2025/PPC-law-of-gravity-/blob/main/PPC%20LAW%20OF%20GRAVITY.pdf )
+https://github.com/pawanupadhyay2025/PPC-law-of-gravity-/blob/main/PAWAN%20UPADHYAY'S%20PRESSURE-CURVATURE%20LAW%20OF%20GRAVITY.pdf
 
 
 📡 Contact and Citation
