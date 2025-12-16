@@ -9,6 +9,12 @@
 
 # Email: pawanupadhyay28@hotmail.com
 
+# Discoveries by Pawan Upadhyay
+
+Official research page:
+
+🔗 https://sites.google.com/view/discoveriesbypawanupadhyay/research-projects
+
 Date: November 2025
 
 Status: ✅ Verified on GitHub
