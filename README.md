@@ -167,7 +167,12 @@ Email: pawanupadhyay28@hotmail.com
 ## 📄 Publication
 The full research paper is officially published and archived on Zenodo (CERN Open-Science Repository).
 
-🔗 **Read here:** [https://doi.org/10.5281/zenodo.17593311](https://doi.org/10.5281/zenodo.17593311)
+🔗 **Read here:** 
+
+[![OSF DOI](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2FUFMN4-blue)](https://doi.org/10.17605/OSF.IO/UFMN4)
+
+
+[https://doi.org/10.5281/zenodo.17593311](https://doi.org/10.5281/zenodo.17593311)
 
 [https://doi.org/10.5281/zenodo.17619435](https://doi.org/10.5281/zenodo.17619435)
 
