@@ -1,10 +1,6 @@
 
 [![OSF DOI](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2FUFMN4-blue)](https://doi.org/10.17605/OSF.IO/UFMN4)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17619435.svg)](https://doi.org/10.5281/zenodo.17619435)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17593311.svg)](https://doi.org/10.5281/zenodo.17593311)
-
 
 [![Pawan Upadhyay's Pressure–Curvature Law of Gravity](https://img.shields.io/badge/Archive.org-PPC%20Law%20of%20Gravity-blue?logo=internetarchive)](https://archive.org/details/pawan-upadhyay-s-pressure-curvature-law-of-gravity)
 
@@ -167,17 +163,13 @@ Email: pawanupadhyay28@hotmail.com
 
 
 ## 📄 Publication
-The full research paper is officially published and archived on Zenodo (CERN Open-Science Repository).
+The full research paper is officially published and archived on OSF (Open Science Framework)and Archive.org.
 
 🔗 **Read here:** 
 
 [![OSF DOI](https://img.shields.io/badge/OSF-10.17605%2FOSF.IO%2FUFMN4-blue)](https://doi.org/10.17605/OSF.IO/UFMN4)
 
-
-[https://doi.org/10.5281/zenodo.17593311](https://doi.org/10.5281/zenodo.17593311)
-
-[https://doi.org/10.5281/zenodo.17619435](https://doi.org/10.5281/zenodo.17619435)
-
+[![Pawan Upadhyay's Pressure–Curvature Law of Gravity](https://img.shields.io/badge/Archive.org-PPC%20Law%20of%20Gravity-blue?logo=internetarchive)](https://archive.org/details/pawan-upadhyay-s-pressure-curvature-law-of-gravity)
 
 
 [![ORCID](https://orcid.org/sites/default/files/images/orcid_24x24.png)](https://orcid.org/0009-0007-9077-5924)
