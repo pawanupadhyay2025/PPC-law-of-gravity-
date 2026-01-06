@@ -173,3 +173,10 @@ The full research paper is officially published and archived on OSF (Open Scienc
 
 
 [![ORCID](https://orcid.org/sites/default/files/images/orcid_24x24.png)](https://orcid.org/0009-0007-9077-5924)
+
+![Copyright](https://img.shields.io/badge/Copyright-©%202025–2026%20Pawan%20Upadhyay-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-green)
+
+Copyright © 2025–2026 Pawan Upadhyay  
+Licensed under Creative Commons Attribution–NoDerivatives 4.0 International  
+https://creativecommons.org/licenses/by-nd/4.0/
