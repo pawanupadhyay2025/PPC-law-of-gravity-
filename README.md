@@ -4,6 +4,8 @@
 
 [![Pawan Upadhyay's Pressure–Curvature Law of Gravity](https://img.shields.io/badge/Archive.org-PPC%20Law%20of%20Gravity-blue?logo=internetarchive)](https://archive.org/details/pawan-upadhyay-s-pressure-curvature-law-of-gravity)
 
+[![Research Resume](https://img.shields.io/badge/Research%20Resume-Archive.org-blue?style=flat-square&logo=internetarchive)](https://archive.org/details/my-research-resume)
+
 # Pawan Upadhyay's Pressure–Curvature Law of Gravity (PPC Law)
 
 # Author and Researcher: Pawan Upadhyay
