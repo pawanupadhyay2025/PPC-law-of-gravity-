@@ -40,6 +40,10 @@ So, the full form is:
 
 Pawan Upadhyay’s Pressure–Curvature Law of Gravity
 
+Mass and Energy are not separate. 
+Conceptual Chain with Clarity:
+Mass density➡️Energy Density➡️Pressure➡️Forces of Pressure➡️Curvature via Stress-Energy Tensor➡️Spacetime Curvature➡️Geodesic Motion➡️Pressure waves 
+
 
 
 📖 Abstract
