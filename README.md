@@ -6,7 +6,7 @@
 
 [![Research Resume](https://img.shields.io/badge/Research%20Resume-Archive.org-blue?style=flat-square&logo=internetarchive)](https://archive.org/details/my-research-resume)
 
-# Pawan Upadhyay's Pressure–Curvature Law of Gravity (PPC Law)
+# Pawan Upadhyay's Pressure–Curvature Law of Gravity (PPC Law) and Gravitational Pressure Waves
 
 # Author and Researcher: Pawan Upadhyay
 
