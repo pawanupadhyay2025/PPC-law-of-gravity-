@@ -69,11 +69,11 @@ It provides a clear causal mechanism that connects energy density to geometry.
 
  Causal Flow of PPC Law
 
-Mass (ρ) → generates → Pressure Field (Pg = ρc²)
+Mass (ρ) → generates → Pressure Field (P_g = ρc²)
 
 Pressure Field → acts upon → Spacetime Fabric
 
-Spacetime Fabric → results in → Curvature (Gμν)
+Spacetime Fabric → results in → Curvature (G_μν)
 
 Curvature → defines → Motion (Geodesics)
 
@@ -83,10 +83,10 @@ Causal Chain: Mass → Pressure → Curvature → Motion
 Mathematical Insight
 
 Einstein’s field equations:
-Gμν = (8πG / c⁴) Tμν
+G_μν = (8πG / c⁴) T_μν
 
 For a perfect fluid:
-Tμν = (ρ + p/c²)uμuν + p gμν
+T_μν = (ρ + p/c²)u_μ u_ν + p g_μν
 
 The pressure term directly contributes to spacetime curvature.
 In the weak-field limit:
@@ -98,7 +98,7 @@ Pressure Dominates Curvature: Einstein’s Proof
 
 In the stress-energy tensor:
 
-Tμν = (ρ + p/c²) uμuν + p gμν
+T_μν = (ρ + p/c²) u_μ u_ν + p g_μν
 
 pressure (p) appears in two terms.
 
